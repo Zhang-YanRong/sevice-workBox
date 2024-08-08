@@ -23,7 +23,7 @@ if (workbox) {
 
     // 设置运行时缓存策略
     // workbox.routing.registerRoute(
-    //     /\/GStarSDK\.js/,
+    //     /\/jquery-1.12.4.min.js\.js/,
     //     new workbox.strategies.CacheFirst({
     //         cacheName: 'SDK',
     //         plugins: [
